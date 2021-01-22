@@ -19,7 +19,7 @@ I **mostly** use the following languages for my projects:
 - `Librarys/Frameworks (jQuery, dataTables, Bootstrap, ...)`
 
 ## Contact
-You are very welcome to contact me at any time via the following links:
+You are very welcome to contact me at any time via the following platforms:
 
 [![](https://img.shields.io/badge/Email-andreas.gutmann01@gmail.com-limegreen)](mailto:andreas.gutmann01@gmail.com)
 [![](https://img.shields.io/badge/CodeSignal-angu--dev-blue)](https://app.codesignal.com/profile/angu-dev)
