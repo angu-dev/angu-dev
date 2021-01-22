@@ -10,13 +10,13 @@ Since the beginning of my training, I have dealt with problems every day. That i
 ## Knowledge
 Through my work as a **full-stack developer**, I was able to gain a lot of experience in project planning, customer contact and the resources provided.
 I **mostly** use the following languages for my projects:
-- C#
-- JavaScript
-- HTML
-- CSS/SCSS/SASS
-- SQL (MySQL, MicrosoftSQL)
-- Java
-- Librarys/Frameworks (jQuery, dataTables, Bootstrap, ...)
+- `C#`
+- `JavaScript`
+- `HTML`
+- `CSS/SCSS/SASS`
+- `SQL (MySQL, MicrosoftSQL)`
+- `Java`
+- `Librarys/Frameworks (jQuery, dataTables, Bootstrap, ...)`
 
 ## Contact
 You are very welcome to contact me at any time via the following links:
