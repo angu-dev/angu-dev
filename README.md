@@ -19,7 +19,12 @@ I **mostly** use the following languages for my projects:
 - Librarys/Frameworks (jQuery, dataTables, Bootstrap, ...)
 
 ## Contact
-You are very welcome to contact me at any time via email (andreas.gutmann01@gmail.com), [CodeSignal](https://app.codesignal.com/profile/angu-dev), [Instagram](https://www.instagram.com/cap.exe/) or directly via [GitHub](https://github.com/angu-dev).
+You are very welcome to contact me at any time via the following links:
+
+[![](https://img.shields.io/badge/Email-andreas.gutmann01@gmail.com-limegreen)](mailto:andreas.gutmann01@gmail.com)
+[![](https://img.shields.io/badge/CodeSignal-angu--dev-blue)](https://app.codesignal.com/profile/angu-dev)
+[![](https://img.shields.io/badge/Instagram-cap.exe-red)](https://www.instagram.com/cap.exe/)
+[![](https://img.shields.io/badge/GitHub-angu--dev-lightblue)](https://github.com/angu-dev)
 
 ##
 [Copyright © 2021 Andreas Gutmann, angu-dev](https://github.com/angu-dev/angu-dev/blob/main/LICENSE)
