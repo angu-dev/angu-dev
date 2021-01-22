@@ -22,4 +22,4 @@ I **mostly** use the following languages for my projects:
 You are very welcome to contact me at any time via email (andreas.gutmann01@gmail.com), [CodeSignal](https://app.codesignal.com/profile/angu-dev), [Instagram](https://www.instagram.com/cap.exe/) or directly via [GitHub](https://github.com/angu-dev).
 
 ##
-[Copyright (C) 2021 Andreas Gutmann, angu-dev](https://github.com/angu-dev/angu-dev/blob/main/LICENSE)
+[Copyright © 2021 Andreas Gutmann, angu-dev](https://github.com/angu-dev/angu-dev/blob/main/LICENSE)
