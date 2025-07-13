@@ -162,6 +162,9 @@ Passionate about technology and lifelong learning, continuously expanding expert
 
 ###
 
-<img src="https://raw.githubusercontent.com/angu.dev/angu.dev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/angu-dev/angu-dev/db514ae69f5b3f3e376fe14ed1cb39f251000723/snake.svg" alt="Snake animation" />
+</div>
+
 
 ###
