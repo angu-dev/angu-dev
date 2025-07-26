@@ -154,7 +154,7 @@ Passionate about technology and lifelong learning, continuously expanding expert
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40" alt="xd logo"  />
 </div>
 
-<br><br>
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/angu-dev/angu-dev/2a926cef3a730f448591ba7f4ad23b1d35d6ce63/pacman-contribution-graph-dark.svg">
