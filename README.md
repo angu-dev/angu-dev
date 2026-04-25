@@ -7,21 +7,30 @@ Proficient software developer with a solid foundation in application development
 Passionate about technology and lifelong learning, continuously expanding expertise across diverse development domains. Skilled at bridging technical challenges with strategic solutions, fostering collaboration, and mentoring teams to achieve their full potential. Committed to creating impactful software that enhances user experience and supports business growth.
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/andreas-gutmann-386413218/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/andreas-gutmann-386413218/" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" />
   </a>
-  <a href="https://www.instagram.com/cap.exe/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  &nbsp;
+  <a href="https://www.instagram.com/cap.exe/" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" />
   </a>
-  <a href="mailto:andreasgutmann01@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  &nbsp;
+  <a href="mailto:andreasgutmann01@gmail.com" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" />
   </a>
-  <a href="https://www.discord.com/users/399577506723921920" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  &nbsp;
+  <a href="https://www.discord.com/users/399577506723921920" style="display:inline-block;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" />
   </a>
 </div>
 
 # 
+<br>
+
+<div align="center">
+  <a href="https://certificates.dev/vuejs/certificates/a0a6a9b0-d97c-47b9-adf4-5314894f2e3e"><img src="https://img.shields.io/badge/Official_Vue.js_Certified-Mid--Level-10B981?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white&amp;labelColor=065F46" alt="Vue.js Mid-Level Certificate"></a>
+</div>
+
 <br>
 
 <div align="center">
